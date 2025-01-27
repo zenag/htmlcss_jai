@@ -109,3 +109,39 @@ nav a {
   margin-top:8px;
 }
 /********** Testimonial CSS Ends **********/
+/********** Footer CSS Starts **********/  
+.footer {
+  background-color:#1f2836;
+  padding:70px 0px;
+  width:100%;
+  float:left;
+}
+.footer-sect {
+  width:25%;
+  margin:10px;
+  float:left;
+}
+.footer-sect h2 {
+  color:#fff;
+  margin-bottom: 20px;
+}
+.footer-sect p {
+  color: #fff;
+  line-height: 22px;
+  padding:0px 30px 20px 0px;
+}
+.footer-menu li {
+  width: 50%;
+  float: left;
+  margin-bottom: 10px;
+}
+.footer-menu li a {
+  color:#fff;
+  text-decoration: none;
+}
+.footer-contact li {
+  margin-bottom:15px;
+  list-style: none;
+  color: #fff;
+}
+/********** Footer CSS Ends **********/
